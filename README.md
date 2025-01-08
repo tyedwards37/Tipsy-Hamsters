@@ -43,6 +43,10 @@ As players progress, they'll need to collect special "keys" to unlock new areas 
 - Running into hazards will cause the game to “end,” forcing the player to restart from a designated point.
 - Some hazards will push the hamster in a different direction than the one they were originally heading.
 
+## Builds
+You can download the builds for the game from the following link:
+[Download The Tipsy Hamster Builds](https://drive.google.com/drive/folders/1T5thjEcR0eZ7ubg87AB-dwBaXORNYAdj?usp=sharing) <!-- Replace this placeholder link with the actual URL -->
+
 ## Similar Apps
 - **Tomb of the Mask**: Camera view and obstacle avoidance.
 - **Swipe Ball Rush**: Avatar movement, power-ups, portals (Tunnels), and camera view.
